@@ -8,7 +8,7 @@ The goal is to uncover patterns that can improve trading strategies.
 
 ## 📊 Dashboard Preview
 
-![Trader Performance Dashboard](screenshot(150).png)
+![Trader Performance Dashboard](Screenshot (150).png)
 
 ---
 
